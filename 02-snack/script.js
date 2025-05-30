@@ -7,7 +7,7 @@ if (wordOne.length > wordTwo.length) {
 
 }
 else if (wordOne.length == wordTwo.length) {
-    console.log("Le due parole hanno la stessa lunghezza", wordOne, wordTwo);
+    console.log("Le due parole hanno la stessa lunghezza:", wordOne, wordTwo);
 
 }
 else {
